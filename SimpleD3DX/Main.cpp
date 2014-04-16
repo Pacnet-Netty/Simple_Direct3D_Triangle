@@ -1,7 +1,4 @@
-//SimpleD3D
-//by Bharath Hegde
-
-//SimpleD3D is supposed to make it easier to use Direct3D graphics.
+//broken as of 4/16/2014! i am not going to update this any further.
 
 #include <windows.h>
 #include <windowsx.h>
